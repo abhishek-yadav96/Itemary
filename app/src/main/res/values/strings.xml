@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Itemary</string>
+
+
+    //Headings
+    <string name="heading_one">Quick &amp; Easy Payments</string>
+    <string name="heading_two">Instant Notifications</string>
+    <string name="heading_three">Cashless Payment</string>
+    <string name="heading_fourth">Pay Anywhere</string>
+
+    //Description
+    <string name="desc_one">Grow your Business By Accepting Card Payments with The New Card Reader</string>
+    <string name="desc_two">Grow your Business By Accepting Card Payments with The New Card Reader</string>
+    <string name="desc_three">Grow your Business By Accepting Card Payments with The New Card Reader</string>
+    <string name="desc_fourth">Grow your Business By Accepting Card Payments with The New Card Reader</string>
+    <string name="title_home">Home</string>
+    <string name="notification_home">Notification</string>
+    <string name="title_tracker">Your order</string>
+    <string name="Wallet_history">Wallet History</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="change_password">Change Password</string>
+    <string name="manage_addresses">Manage Addresses</string>
+    <string name="support">Support</string>
+    <string name="refer_and_earn">Refer and Earn</string>
+    <string name="blog">Blog</string>
+    <string name="contact">Contact</string>
+    <string name="about">About Us</string>
+    <string name="rate">Rate Us</string>
+    <string name="share_app">Share App</string>
+    <string name="faq">FAQ</string>
+    <string name="term">Terms and Condition</string>
+    <string name="policy">Privacy Policy</string>
+
+
+    Wallet_history
+    title_tracker
+
+
+</resources>

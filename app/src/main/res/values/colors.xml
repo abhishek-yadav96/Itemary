@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#fe9263</color>
+    <color name="purple_500">#fe9263</color>
+    <color name="purple_700">#fe9263</color>
+    <color name="teal_200">#fe9263</color>
+    <color name="teal_pink">#E9EFD4D4</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimaryLight">#D6FFF9</color>
+    <color name="orange">#fe9263</color>
+    <color name="material_cyan_200">#D2D3D3</color>
+    <color name="colorPrimary">#00B8A8</color>
+    <color name="gray">#ACABAB</color>
+    <color name="bg_color">#F8F8F8</color>
+    <color name="drawer_icon_color">#494A49</color>
+    //onboarding colors
+    <color name="background">#F0F4F3</color>
+    <color name="buttontext">#fe9263</color>
+
+    <color name="trans_white">#F2FFFFFF</color>
+
+    //indicator color
+    <color name="inactive">#FF000000 </color>
+    <color name="active">#fe9263</color>
+
+
+
+
+</resources>
